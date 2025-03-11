@@ -15,7 +15,7 @@
 - Web development projects using **ReactJS**  
 
 - 📫 How to reach me Email: [poojithabolli0620@gmail.com]
-      LinkedIn: []
+      LinkedIn: [https://www.linkedin.com/in/bolli-poojitha20]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to music and cooking in my free time 🎵🍳
 
